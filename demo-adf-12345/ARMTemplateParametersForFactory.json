@@ -3,13 +3,13 @@
 	"contentVersion": "1.0.0.0",
 	"parameters": {
 		"factoryName": {
-			"value": "demo-adf-12345"
+			"value": "migrating"
 		},
 		"AzureBlobStorage1_connectionString": {
-			"value": ""
+			"value": "DefaultEndpointsProtocol=https;AccountName=sidwar76;AccountKey=KsXHVuES9oBhIVbCdRaf67WQWOCfXqekxHq+sWQ9Fw4qwXlmBub5EloSxbI8z5nABRyE4szHvFs3dWiVtX3m8g==;EndpointSuffix=core.windows.net"
 		},
 		"AzureSqlDatabase1_connectionString": {
-			"value": ""
+			"value": "Server=tcp:sidwar123.database.windows.net,1433;Initial Catalog=od;Persist Security Info=False;User ID=sidwar;Password={your_password};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
 		}
 	}
 }
